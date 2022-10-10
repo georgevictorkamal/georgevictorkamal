@@ -11,7 +11,7 @@
 
 ---
 
-# [![](https://visitcount.itsvg.in/api?id=GeorgeVictorKamal&icon=0&color=4)](https://visitcount.itsvg.in)
+#  <h2 align="center">Visitor's count:</h2> <p align="center"><img src="https://profile-counter.glitch.me/georgevictorkamal/count.svg"></p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GeorgeVictorKamal&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
