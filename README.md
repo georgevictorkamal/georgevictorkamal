@@ -21,5 +21,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=GeorgeVictorKamal&icon=0&color=4)](https://visitcount.itsvg.in)
+---  
+<div align="center"> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
+
+ </div> 
