@@ -18,9 +18,9 @@
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=georgevictorkamal&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=georgevictorkamal&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=georgevictorkamal&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=GeorgeVictorKamal&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
   
 </div>
-![](https://github-readme-stats.vercel.app/api?username=GeorgeVictorKamal&theme=onedark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 
 
