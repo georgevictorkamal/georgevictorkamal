@@ -1,5 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF79C6&size=40&center=true&width=1000&height=100&lines=Software+developer)](https://git.io/typing-svg)
+
 # 💫 About Me:
-I'm a Junior 🎓 .<br>Software Developer 👨‍💻.<br>Who Loves 😍 to code. <br>I am creatively curious💡 and a self-learner💪🏻. <br>I love ❤️‍🔥 exploring new technologies.
+#I'm a Junior 🎓 .<br>Software Developer 👨‍💻.<br>Who Loves 😍 to code. <br>I am creatively curious💡 and a self-learner💪🏻. <br>I love ❤️‍🔥 exploring new technologies.
 
 
 ## 🌐 Socials:
