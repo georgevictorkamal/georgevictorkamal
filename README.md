@@ -1,4 +1,4 @@
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/georgevictorkamal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/georgevictorkamal/)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/georgevictorkamal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgevictorkamal/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2333FF02&size=40&center=true&width=1000&height=100&lines=Software+developer)](https://git.io/typing-svg)
 
@@ -23,8 +23,10 @@
 </div>
 
 
-<div align="center">
+
 ## ✍️ Random Dev Quote
+<div align="center">
+ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </div>
 
