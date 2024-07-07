@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2333FF02&size=40&center=true&width=1000&height=100&lines=Software+Developer)](https://git.io/typing-svg)
 
-### <p align="center">I'm a Junior 🎓 .<br>Software Developer 👨‍💻.<br>Who Loves 😍 to code. <br>I love ❤️‍🔥 exploring new technologies. <br>I am creatively curious💡 and a self-learner💪🏻. </p>
+### <p align="center">I'm a Senior 🎓 .<br>Software Engineer 👨‍💻.<br>Who Loves 😍 to code. <br>I love ❤️‍🔥 exploring new technologies. <br>I am creatively curious💡 and a self-learner💪🏻. </p>
  
 ---
 
