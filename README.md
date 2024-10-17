@@ -54,6 +54,11 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=plastic&logo=firebase)
 
+#### Other Technologies:
+![Power Apps](https://img.shields.io/badge/Power%20Apps-5C2D91?style=plastic&logo=microsoftpowerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-5C2D91?style=plastic&logo=microsoftpowerautomate&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F25028?style=plastic&logo=powerbi&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=plastic&logo=sharepoint&logoColor=white)
 
 ---
 
